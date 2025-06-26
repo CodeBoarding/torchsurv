@@ -22,6 +22,17 @@ Welcome to TorchSurv's documentation!
 
 .. toctree::
     :maxdepth: 2
+    :caption: Code Onboarding:
+
+    codeboarding/on_boarding
+    codeboarding/ModelTraining
+    codeboarding/SurvivalLossFunctions
+    codeboarding/MomentumTrainingStrategy
+    codeboarding/SurvivalMetricsAndStats
+    codeboarding/InputValidationUtilities
+
+.. toctree::
+    :maxdepth: 2
     :caption: Other:
 
     CHANGELOG
